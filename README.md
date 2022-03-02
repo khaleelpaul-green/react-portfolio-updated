@@ -1,22 +1,23 @@
-# COBWEB CODERS: SPOOKY SITES
+# React Portfolio
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
   * [Usage](#usage)
   * [License](#license)
   * [Contributors](#contributors)
+  * [Deployed Application](#deployed-application)
   * [Questions](#questions)
 
   ## Description
-Welcome to Spooky Sites, made by the Cobweb Coders! This application allows you to view the spooky sites in your local area. This is a full-stack application that is deployed on Heroku and uses the MVC paradigm, our own server-side API, has user authentication, and connects to a database.
+Using React, I created a personal devloper portfolio that acts to showcases my best work, as I continue to develop my coding skills overtime. Being a web developer means being part of a community, and so it is essential to have a place to share my projects while applying for jobs or simply to share my work with other developers and collaborate on projects.
 
   ## Installation 
-  This app does not require an installation, and can be accessed via a web browswer [here](https://cogentgas.herokuapp.com/).
+  This app does not require an installation, and can be accessed via a web browswer [here](https://khaleelpaul-green.github.io/react-portfolio-updated/).
 
   However, if you would like to have this app forked, do `npm install` at the root directory and then run `npm start`
 
   ## Usage 
-  Users can navigate the site to learn more of the company's projects, contact information, and values [here](https://cogentgas.herokuapp.com/).
+  Users can navigate the site to learn more of the company's projects, contact information, and values [here](https://khaleelpaul-green.github.io/react-portfolio-updated/).
 
 ## License
   This project is licensed under the MIT license.
@@ -32,20 +33,20 @@ Welcome to Spooky Sites, made by the Cobweb Coders! This application allows you 
   ## Deployed Application
 
 You can view the deployed application on Github Pages:
-<https://spooky-sights.herokuapp.com/homepage>
+<https://khaleelpaul-green.github.io/react-portfolio-updated/>
 
 Here are some screenshots for the application:
-![Portfolio Site - image 1](./screenshot1.png)
-![Portfolio Site - image 2](./screenshot2.png)
+![Portfolio Site - image 1](./assets/screenshot1.PNG)
+![Portfolio Site - image 2](./assets/screenshot2.PNG)
 
 
   ## Questions
 
-  Github: [This Repo](https://github.com/khaleelpaul-green/cogent-appliance-site)
+  Github: [This Repo](https://github.com/khaleelpaul-green/react-portfolio-updated)\
   Email: [khaleelpaulgreen.code@gmail.com](mailto:khaleelpaulgreen.code@gmail.com).
 
 Please feel free to contact me with comments or further questions via email, which is my prefered method.
 
-
 - - -
-© 2021 Cobweb Coders Technologies. All Rights Reserved.
+
+[back to top](#table-of-contents)
