@@ -35,8 +35,8 @@ You can view the deployed application on Github Pages:
 <https://spooky-sights.herokuapp.com/homepage>
 
 Here are some screenshots for the application:
-![Portfolio Site - image 1](./assets/screenshot1.png)
-![Portfolio Site - image 2](./assets/screenshot2.png)
+![Portfolio Site - image 1](./assets/screenshot1.PNG)
+![Portfolio Site - image 2](./assets/screenshot2.PNG)
 
 
   ## Questions
