@@ -8,7 +8,7 @@
   * [Questions](#questions)
 
   ## Description
-Welcome to Spooky Sites, made by the Cobweb Coders! This application allows you to view the spooky sites in your local area. This is a full-stack application that is deployed on Heroku and uses the MVC paradigm, our own server-side API, has user authentication, and connects to a database.
+Using React, I created a personal devloper portfolio that acts to showcases my best work, as I continue to develop my coding skills overtime. Being a web developer means being part of a community, and so it is essential to have a place to share my projects while applying for jobs or simply to share my work with other developers and collaborate on projects.
 
   ## Installation 
   This app does not require an installation, and can be accessed via a web browswer [here](https://khaleelpaul-green.github.io/react-portfolio-updated/).
