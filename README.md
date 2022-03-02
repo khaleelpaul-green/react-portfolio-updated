@@ -47,3 +47,6 @@ Here are some screenshots for the application:
 
 Please feel free to contact me with comments or further questions via email, which is my prefered method.
 
+- - -
+
+[back to top](#table-of-contents)
