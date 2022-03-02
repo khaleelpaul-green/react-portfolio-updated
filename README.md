@@ -9,10 +9,10 @@
   * [Questions](#questions)
 
   ## Description
-Using React, I created a personal devloper portfolio that acts to showcases my best work, as I continue to develop my coding skills overtime. Being a web developer means being part of a community, and so it is essential to have a place to share my projects while applying for jobs or simply to share my work with other developers and collaborate on projects.
+Using React, I created a personal developer portfolio that acts to showcase my best work, as I continue to develop my coding skills overtime. Being a web developer means being part of a community, and so it is essential to have a place to share my projects while applying for jobs or simply to share my work with other developers and collaborate on projects.
 
   ## Installation 
-  This app does not require an installation, and can be accessed via a web browswer [here](https://khaleelpaul-green.github.io/react-portfolio-updated/).
+  This app does not require an installation, and can be accessed via a web browser [here](https://khaleelpaul-green.github.io/react-portfolio-updated/).
 
   However, if you would like to have this app forked, do `npm install` at the root directory and then run `npm start`
 
