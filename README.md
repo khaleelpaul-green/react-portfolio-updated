@@ -5,6 +5,7 @@
   * [Usage](#usage)
   * [License](#license)
   * [Contributors](#contributors)
+  * [Deployed Application](#deployed-application)
   * [Questions](#questions)
 
   ## Description
@@ -32,7 +33,7 @@ Using React, I created a personal devloper portfolio that acts to showcases my b
   ## Deployed Application
 
 You can view the deployed application on Github Pages:
-<https://spooky-sights.herokuapp.com/homepage>
+<https://khaleelpaul-green.github.io/react-portfolio-updated/>
 
 Here are some screenshots for the application:
 ![Portfolio Site - image 1](./assets/screenshot1.PNG)
