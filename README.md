@@ -1,70 +1,51 @@
-# Getting Started with Create React App
+# COBWEB CODERS: SPOOKY SITES
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contributors](#contributors)
+  * [Questions](#questions)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+  ## Description
+Welcome to Spooky Sites, made by the Cobweb Coders! This application allows you to view the spooky sites in your local area. This is a full-stack application that is deployed on Heroku and uses the MVC paradigm, our own server-side API, has user authentication, and connects to a database.
 
-## Available Scripts
+  ## Installation 
+  This app does not require an installation, and can be accessed via a web browswer [here](https://cogentgas.herokuapp.com/).
 
-In the project directory, you can run:
+  However, if you would like to have this app forked, do `npm install` at the root directory and then run `npm start`
 
-### `npm start`
+  ## Usage 
+  Users can navigate the site to learn more of the company's projects, contact information, and values [here](https://cogentgas.herokuapp.com/).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## License
+  This project is licensed under the MIT license.
+  
+  [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+  
+  [License]((https://opensource.org/licenses/MIT)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+  ## Contributors
 
-### `npm test`
+  1. [Khaleel](https://github.com/khaleelpaul-green)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+  ## Deployed Application
 
-### `npm run build`
+You can view the deployed application on Github Pages:
+<https://spooky-sights.herokuapp.com/homepage>
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Here are some screenshots for the application:
+![Portfolio Site - image 1](./screenshot1.png)
+![Portfolio Site - image 2](./screenshot2.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+  ## Questions
 
-### `npm run eject`
+  Github: [This Repo](https://github.com/khaleelpaul-green/cogent-appliance-site)
+  Email: [khaleelpaulgreen.code@gmail.com](mailto:khaleelpaulgreen.code@gmail.com).
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+Please feel free to contact me with comments or further questions via email, which is my prefered method.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- - -
+© 2021 Cobweb Coders Technologies. All Rights Reserved.
