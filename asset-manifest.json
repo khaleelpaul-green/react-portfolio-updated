@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/react-portfolio-updated/static/css/main.99be33b7.css",
-    "main.js": "/react-portfolio-updated/static/js/main.a82d88bc.js",
+    "main.js": "/react-portfolio-updated/static/js/main.17615eda.js",
+    "static/media/resume-ss.jpg": "/react-portfolio-updated/static/media/resume-ss.88496c9c4e1b6e8ac74a.jpg",
     "static/media/spooky-sights-ss.jpg": "/react-portfolio-updated/static/media/spooky-sights-ss.b897670434fe133d0100.jpg",
     "static/media/homepage (1).jpg": "/react-portfolio-updated/static/media/homepage (1).67534cb74bf6d365dd25.jpg",
-    "static/media/resume-ss.jpg": "/react-portfolio-updated/static/media/resume-ss.ba398bfdd86f4ddbcb4f.jpg",
     "static/media/budget-tracker.JPG": "/react-portfolio-updated/static/media/budget-tracker.afde13d5dff6a5a7f5e0.JPG",
     "static/media/postman-ss.jpg": "/react-portfolio-updated/static/media/postman-ss.58fd9d8350c1093333a8.jpg",
     "static/media/Coding-vs-programming.jpg": "/react-portfolio-updated/static/media/Coding-vs-programming.ac2787c6c2bb6a912296.jpg",
@@ -15,10 +15,10 @@
     "static/media/note-taker-ss-1.jpg": "/react-portfolio-updated/static/media/note-taker-ss-1.7d5e902df8afd0a54c36.jpg",
     "index.html": "/react-portfolio-updated/index.html",
     "main.99be33b7.css.map": "/react-portfolio-updated/static/css/main.99be33b7.css.map",
-    "main.a82d88bc.js.map": "/react-portfolio-updated/static/js/main.a82d88bc.js.map"
+    "main.17615eda.js.map": "/react-portfolio-updated/static/js/main.17615eda.js.map"
   },
   "entrypoints": [
     "static/css/main.99be33b7.css",
-    "static/js/main.a82d88bc.js"
+    "static/js/main.17615eda.js"
   ]
 }
