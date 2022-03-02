@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-portfolio-updated/static/css/main.99be33b7.css",
+    "main.js": "/react-portfolio-updated/static/js/main.a82d88bc.js",
+    "static/media/spooky-sights-ss.jpg": "/react-portfolio-updated/static/media/spooky-sights-ss.b897670434fe133d0100.jpg",
+    "static/media/homepage (1).jpg": "/react-portfolio-updated/static/media/homepage (1).67534cb74bf6d365dd25.jpg",
+    "static/media/resume-ss.jpg": "/react-portfolio-updated/static/media/resume-ss.ba398bfdd86f4ddbcb4f.jpg",
+    "static/media/budget-tracker.JPG": "/react-portfolio-updated/static/media/budget-tracker.afde13d5dff6a5a7f5e0.JPG",
+    "static/media/postman-ss.jpg": "/react-portfolio-updated/static/media/postman-ss.58fd9d8350c1093333a8.jpg",
+    "static/media/Coding-vs-programming.jpg": "/react-portfolio-updated/static/media/Coding-vs-programming.ac2787c6c2bb6a912296.jpg",
+    "static/media/tech-blog-ss.jpg": "/react-portfolio-updated/static/media/tech-blog-ss.864dd30c976b8d26df6d.jpg",
+    "static/media/dev-resume.pdf": "/react-portfolio-updated/static/media/dev-resume.d3a6e83fe29552361dd9.pdf",
+    "static/media/team-generator-ss.jpg": "/react-portfolio-updated/static/media/team-generator-ss.d9eaa281b41493efb12c.jpg",
+    "static/media/fitness-tracker.jpg": "/react-portfolio-updated/static/media/fitness-tracker.5c84019d6f90e5f1f218.jpg",
+    "static/media/note-taker-ss-1.jpg": "/react-portfolio-updated/static/media/note-taker-ss-1.7d5e902df8afd0a54c36.jpg",
+    "index.html": "/react-portfolio-updated/index.html",
+    "main.99be33b7.css.map": "/react-portfolio-updated/static/css/main.99be33b7.css.map",
+    "main.a82d88bc.js.map": "/react-portfolio-updated/static/js/main.a82d88bc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.99be33b7.css",
+    "static/js/main.a82d88bc.js"
+  ]
+}
