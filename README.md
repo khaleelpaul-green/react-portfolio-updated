@@ -1,4 +1,4 @@
-# COBWEB CODERS: SPOOKY SITES
+# React Portfolio
   ## Table of Contents
   * [Description](#description)
   * [Installation](#installation)
@@ -41,11 +41,8 @@ Here are some screenshots for the application:
 
   ## Questions
 
-  Github: [This Repo](https://github.com/khaleelpaul-green/react-portfolio-updated)
+  Github: [This Repo](https://github.com/khaleelpaul-green/react-portfolio-updated)\
   Email: [khaleelpaulgreen.code@gmail.com](mailto:khaleelpaulgreen.code@gmail.com).
 
 Please feel free to contact me with comments or further questions via email, which is my prefered method.
 
-
-- - -
-© 2021 Cobweb Coders Technologies. All Rights Reserved.
